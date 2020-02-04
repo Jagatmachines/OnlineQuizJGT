@@ -1,0 +1,1 @@
+CREATE TABLE `quiz` ( `qid` int(5) default NULL, `Question` text, `opt1` text, `opt2` text, `opt3` text, `opt4` text, `woptcode` varchar(5) default NULL) ENGINE=InnoDB DEFAULT CHARSET=utf8;
